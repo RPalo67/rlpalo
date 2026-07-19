@@ -231,3 +231,16 @@ footer a:hover
     font-size: 1.4rem;
   }
 }
+
+.content-box ol,
+.content-box ul 
+{
+  padding-left: 1.5rem;
+  margin-bottom: 1rem;
+  color: var(--text-muted);
+}
+
+.content-box li 
+{
+  margin-bottom: 0.4rem;
+}
