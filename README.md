@@ -1,2 +1,2 @@
-# rlpalo
-Final Project
+# Online Portfolio
+This is a final project for the course IT0043 (Web Design with Client Side Scripting) and this is an online portfolio.
